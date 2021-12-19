@@ -20,39 +20,39 @@ Note that some of the file paths are written statically. So if you are using thi
 
 
 # Examples:
-## Non-Normalized Homography Estimator:
-### 2 desired images: 
+<h2> Non-Normalized Homography Estimator:</h2>
+<h3> 2 desired images: </h3>
 <div>
   ![Dev1_Image_w960_h600_fn1000](https://user-images.githubusercontent.com/48254077/146667285-415f2004-cdeb-457c-b8b0-2da1e6a1161f.jpg)
   ![Dev2_Image_w960_h600_fn1000](https://user-images.githubusercontent.com/48254077/146667290-d78a0ca2-e675-4dba-926e-7135bf1fd9de.jpg)
 </div>
-### Stitched Image
+<h3> Stitched Image </h3>
 <div>
   ![HOMOGRAPHY_0](https://user-images.githubusercontent.com/48254077/146667267-a5ea8510-e82b-4104-b5e5-2d49f61456f5.png)
 </div>
 <br>
 <hr>
 <br>
-## Normalized Homography Estimator:
-### 2 desired images: 
+<h2> Normalized Homography Estimator:</h2>
+<h3> 2 desired images: </h3>
 <div>
   ![Dev1_Image_w960_h600_fn1000](https://user-images.githubusercontent.com/48254077/146667285-415f2004-cdeb-457c-b8b0-2da1e6a1161f.jpg)
   ![Dev2_Image_w960_h600_fn1000](https://user-images.githubusercontent.com/48254077/146667290-d78a0ca2-e675-4dba-926e-7135bf1fd9de.jpg)
 </div>
-### Stitched Image
+<h3> Stitched Image </h3>
 <div>
   ![HOMOGRAPHY_0](https://user-images.githubusercontent.com/48254077/146667314-c421b8e6-efe4-4656-b639-3afde027b666.png)
 </div>
 <br>
 <hr>
 <br>
-## RANSAC Normalized Homography Estimator:
-### 2 desired images: 
+<h2> RANSAC Normalized Homography Estimator:</h2>
+<h3> 2 desired images: </h3>
 <div>
   ![Dev1_Image_w960_h600_fn1000](https://user-images.githubusercontent.com/48254077/146667285-415f2004-cdeb-457c-b8b0-2da1e6a1161f.jpg)
   ![Dev2_Image_w960_h600_fn1000](https://user-images.githubusercontent.com/48254077/146667290-d78a0ca2-e675-4dba-926e-7135bf1fd9de.jpg)
 </div>
-### Stitched Image
+<h3> 2 desired images: </h3>
 <div>
   ![HOMOGRAPHY_0](https://user-images.githubusercontent.com/48254077/146667327-2d96be89-ebfa-4b0d-ae3a-fc5f7048b296.png)
 </div>
