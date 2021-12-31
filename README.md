@@ -23,8 +23,8 @@ Note that some of the file paths are written statically. So if you are using thi
 <h2> Non-Normalized Homography Estimator:</h2>
 <h3> 2 desired images: </h3>
 <div>
-  <img height=300 src="https://user-images.githubusercontent.com/48254077/146667285-415f2004-cdeb-457c-b8b0-2da1e6a1161f.jpg" />
-  <img height=300 src="https://user-images.githubusercontent.com/48254077/146667290-d78a0ca2-e675-4dba-926e-7135bf1fd9de.jpg" />
+  <img width="40%" height=300 src="https://user-images.githubusercontent.com/48254077/146667285-415f2004-cdeb-457c-b8b0-2da1e6a1161f.jpg" />
+  <img width="40%" height=300 src="https://user-images.githubusercontent.com/48254077/146667290-d78a0ca2-e675-4dba-926e-7135bf1fd9de.jpg" />
 </div>
 <h3> Stitched Image </h3>
 <div>
@@ -36,8 +36,8 @@ Note that some of the file paths are written statically. So if you are using thi
 <h2> Normalized Homography Estimator:</h2>
 <h3> 2 desired images: </h3>
 <div>
-    <img height=300 src="https://user-images.githubusercontent.com/48254077/146667285-415f2004-cdeb-457c-b8b0-2da1e6a1161f.jpg" />
-    <img height=300 src="https://user-images.githubusercontent.com/48254077/146667290-d78a0ca2-e675-4dba-926e-7135bf1fd9de.jpg" />
+    <img width="40%" height=300 src="https://user-images.githubusercontent.com/48254077/146667285-415f2004-cdeb-457c-b8b0-2da1e6a1161f.jpg" />
+    <img width="40%" height=300 src="https://user-images.githubusercontent.com/48254077/146667290-d78a0ca2-e675-4dba-926e-7135bf1fd9de.jpg" />
 </div>
 <h3> Stitched Image </h3>
 <div>
@@ -49,8 +49,8 @@ Note that some of the file paths are written statically. So if you are using thi
 <h2> RANSAC Normalized Homography Estimator:</h2>
 <h3> 2 desired images: </h3>
 <div>
-   <img height=300 src="https://user-images.githubusercontent.com/48254077/146667285-415f2004-cdeb-457c-b8b0-2da1e6a1161f.jpg" />
-   <img height=300 src="https://user-images.githubusercontent.com/48254077/146667290-d78a0ca2-e675-4dba-926e-7135bf1fd9de.jpg" />
+   <img width="40%" height=300 src="https://user-images.githubusercontent.com/48254077/146667285-415f2004-cdeb-457c-b8b0-2da1e6a1161f.jpg" />
+   <img width="40%" height=300 src="https://user-images.githubusercontent.com/48254077/146667290-d78a0ca2-e675-4dba-926e-7135bf1fd9de.jpg" />
 </div>
 <h3> 2 desired images: </h3>
 <div>
